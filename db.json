@@ -5,9 +5,9 @@
       "user": {
         "id": 101,
         "username": "john_doe",
-        "profile_pic": "./src/image/pexels-jibarofoto-1759530.jpg"
+        "profile_pic": "pexels-jibarofoto-1759530.jpg"
       },
-      "image": "./src/image/pexels-bri-schneiter-28802-346529.jpg",
+      "image": "pexels-bri-schneiter-28802-346529.jpg",
       "caption": "Hiking adventure 🏔️💪 #Travel",
       "likes": 1200,
       "comments": [
@@ -27,9 +27,9 @@
       "user": {
         "id": 102,
         "username": "emma_star",
-        "profile_pic": "./src/image/pexels-bertellifotografia-573299.jpg"
+        "profile_pic": "pexels-bertellifotografia-573299.jpg"
       },
-      "image": "./src/image/pexels-soldiervip-1308881.jpg",
+      "image": "pexels-soldiervip-1308881.jpg",
       "caption": " So elegant and dreamy ✨🌸",
       "likes": 2345,
       "comments": [
@@ -45,9 +45,9 @@
       "user": {
         "id": 103,
         "username": "travel_with_me",
-        "profile_pic": "./src/image/pexels-raybilcliff-1579413.jpg"
+        "profile_pic": "pexels-raybilcliff-1579413.jpg"
       },
-      "image": "./src/image/pexels-alteredsnaps-34683061.jpg",
+      "image": "pexels-alteredsnaps-34683061.jpg",
       "caption": "Natures peace in every drop 🌊✨",
       "likes": 1240,
       "comments": [
@@ -64,7 +64,7 @@
     }
   ],
   "profile": {
-    "profile_pic": "./src/image/story3.jpg",
+    "profile_pic": "story4.jpg",
     "username": "Mathu",
     "Description": "hi"
   },
@@ -72,27 +72,27 @@
     {
       "id": "101",
       "username": "john_doe",
-      "profile_pic": "./src/image/pexels-jibarofoto-1759530.jpg"
+      "profile_pic": "pexels-jibarofoto-1759530.jpg"
     },
     {
       "id": "102",
       "username": "emma_star",
-      "profile_pic": "./src/image/pexels-bertellifotografia-573299.jpg"
+      "profile_pic": "pexels-bertellifotografia-573299.jpg"
     },
     {
       "id": "103",
       "username": "travel_with_me",
-      "profile_pic": "./src/image/pexels-raybilcliff-1579413.jpg"
+      "profile_pic": "pexels-raybilcliff-1579413.jpg"
     },
     {
       "id": "104",
       "username": "travel_me",
-      "profile_pic": "./src/image/pexels-raybilcliff-1579413.jpg"
+      "profile_pic": "pexels-raybilcliff-1579413.jpg"
     },
     {
       "id": "105",
       "username": "travel_with",
-      "profile_pic": "./src/image/pexels-raybilcliff-1579413.jpg"
+      "profile_pic": "pexels-raybilcliff-1579413.jpg"
     }
   ],
   "story": [
@@ -101,7 +101,7 @@
       "user": {
         "id": 101,
         "username": "john_doe",
-        "profile_pic": "./src/image/pexels-jibarofoto-1759530.jpg"
+        "profile_pic": "pexels-jibarofoto-1759530.jpg"
       },
       "image": "/story4.jpg"
     },
@@ -110,7 +110,7 @@
       "user": {
         "id": 102,
         "username": "emma_star",
-        "profile_pic": "./src/image/pexels-bertellifotografia-573299.jpg"
+        "profile_pic": "pexels-bertellifotografia-573299.jpg"
       },
       "image": "/story5.jpg"
     },
@@ -119,7 +119,7 @@
       "user": {
         "id": 103,
         "username": "travel_with_me",
-        "profile_pic": "./src/image/pexels-raybilcliff-1579413.jpg"
+        "profile_pic": "pexels-raybilcliff-1579413.jpg"
       },
       "image": "/story6.jpg"
     }
