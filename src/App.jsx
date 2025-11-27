@@ -1,0 +1,16 @@
+import Feed from "./feed";
+import Sidebar from "./Sidebar"
+import Suggestion from "./suggestion";
+
+
+function App(){
+  return(
+      <div className="bg d-flex vh-100  ">
+        <div className="w-20 "><Sidebar/></div>
+        <div className="w-50 "><Feed/></div>
+        <div className="w-30"><Suggestion/></div>
+      </div>
+  );
+}
+
+export default App
