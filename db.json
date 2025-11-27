@@ -65,8 +65,8 @@
   ],
   "profile": {
     "profile_pic": "story4.jpg",
-    "username": "Mathu",
-    "Description": "hi"
+    "username": "Mathumitha S",
+    "Description": "This is my discription"
   },
   "suggestion": [
     {
@@ -126,28 +126,12 @@
   ],
   "followers": [
     {
-      "id": "101",
-      "username": "john_doe"
-    },
-    {
-      "id": "101",
-      "username": "john_doe"
-    },
-    {
-      "id": "103",
-      "username": "travel_with_me"
-    },
-    {
       "id": "104",
       "username": "travel_me"
     },
     {
       "id": "105",
       "username": "travel_with"
-    },
-    {
-      "id": "101",
-      "username": "john_doe"
     },
     {
       "id": "102",
